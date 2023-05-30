@@ -36,7 +36,7 @@ int main(){
     int board_size;
     string cmd;
 
-    //displays the instructions for the game
+    //displays the instructions for the gameRHHRIO
     cout << "This is the Word Scrambler puzzle game\n"
          << "Your objective is to unscramble the board by repeatedly shifting a row or column\n"
          << "Moves are inputted as 3 characters:\n"
