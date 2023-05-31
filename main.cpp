@@ -1,3 +1,10 @@
+/*-------------------------------------------
+Program 5: Scrambler
+Course: CS 141, Spring 2023, UIC
+System: Visual Studio Code on Windows 11
+Author: Jason Liang, starter code provided by CS 141 Professors
+------------------------------------------- */
+
 #include <iostream>
 #include <vector>
 #include <string>
