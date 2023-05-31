@@ -1,3 +1,5 @@
+//This file contains the function definitions of the Srambler class
+
 #include <string>
 #include <iostream>
 #include <vector>
